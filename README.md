@@ -2,4 +2,7 @@
 These codes are written for educational purpose. Please do not use it for commercial use.
 Contains codes for scraping various websites
 
-1. Famousbirthday.com
+List of websites
+1. azlyrics.com
+2. famousbirthday.com
+3. 
